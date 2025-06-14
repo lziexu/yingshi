@@ -1,11 +1,11 @@
 {
   "spider": "./fty.jar",
-  "warningText": "【挺好分享】接口免费，每次打开记得长按主页刷新！",
+  "warningText": "【老李影视】盒子专用，每次打开记得长按主页刷新！",
   "logo": "http://ztha.top/picture/lmtu1.jpg",
   "sites": [
     {
       "key": "豆豆豆",
-      "name": "公众号[挺好分享]",
+      "name": "老李影视",
       "type": 3,
       "api": "csp_DouDou",
       "indexs": 1,
